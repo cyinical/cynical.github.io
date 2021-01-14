@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!-- Basics html webiste -->
+<html>
+	<head>
+	
+		<title></title>
+
+	</head>
+	
+	<body>
+	
+	</body>
+	
+	<footer>
+	
+		<hr></hr>
+		&copy;Calum sly
+	
+	</footer>
+
+</html>
