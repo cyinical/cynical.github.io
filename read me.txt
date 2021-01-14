@@ -1,0 +1,20 @@
+Hey, this is a short .txt file to tell you how to use the bot :)
+
+1. You need to install Python on your machine, here is a link to do so if you havent already.
+https://www.python.org/downloads/
+
+you also need to make sure pyautogui is installed also. To do this, make sure you have PIP installed, then open CMD as administrator and type this in 'pip install pyautogui'
+
+stuff will happen and stuff will be installed to your machine to run this script and is needed. Once all the installing is done you are free to close CMD and continue with this.
+
+2. Once its intalled, you need to left click then right click on the Spammer.py file in this folder then click edit with ILDE, then click it again on the right of the pop up box (should say something like edit with ILDE 3.9 64-bit)
+
+3. Id suggest reading though the code and reading the parts in red. Then you need to click Run or F5 on your keyboard, both work and a shell should apear
+
+4. select a movie by typing A, B or C in caps
+
+5. select how long, careful with this as it wont stop unless you click the X top right on the ILDE not just the shell.
+
+6. click the text bar in discord and it should do the rest, this script however has been known to break discord and stop your machine from running, you fix this by turning it off and back on again.
+
+7. I cant think of anything else so enjoy this little bot that I changed hehe. Dont be a cunt with it.
